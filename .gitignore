@@ -1,0 +1,27 @@
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
+secrets/
+
+# Office lock and temp files
+~$*
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
